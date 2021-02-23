@@ -1,0 +1,29 @@
+{
+    "startDate": "2020/03/04",
+    "levelQuest": [{
+            "jp_name(jp)": "平穏を引き裂く混沌",
+            "jp_name(en)": "Chaotic Tranquility",
+            "global_name(en)": "Chaos, Render of Tranquility"
+        },
+        {
+            "jp_name(jp)": "安寧を破りし超急の魔笛",
+            "jp_name(en)": "The Piper of Disharmony",
+            "global_name(en)": "Disturbing Whistle of Chaos"
+        },
+        {
+            "jp_name(jp)": "戦塵を招く魔城の脅威",
+            "jp_name(en)": "The Menacing Castle",
+            "global_name(en)": "Menace of the Bewitched Castle"
+        },
+        {
+            "jp_name(jp)": "静寂に生まれし混沌",
+            "jp_name(en)": "Chaotic Silence",
+            "global_name(en)": "The Silence Born of Chaos"
+        },
+        {
+            "jp_name(jp)": "暗影渦巻く壊れた世界",
+            "jp_name(en)": "A World Engulfed in Shadows",
+            "global_name(en)": "A Broken World of Twisted Shadows"
+        }
+    ]
+}

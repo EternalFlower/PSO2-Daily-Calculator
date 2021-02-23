@@ -1,0 +1,236 @@
+{
+    "startDate": "2016/04/20",
+    "featureQuests": [
+        [{
+                "jp_name(jp)": "巨大変形機甲種撃破",
+                "jp_name(en)": "Transformer Takedown",
+                "global_name(en)": "Destroy Giant Transforming Automata"
+            },
+            {
+                "jp_name(jp)": "海底地域生態調査",
+                "jp_name(en)": "Seabed Ecological Survey",
+                "global_name(en)": "Seabed Region Ecological Survey"
+            }
+        ],
+        [{
+                "jp_name(jp)": "ナヴ・ラッピー捕獲任務",
+                "jp_name(en)": "Nab Rappy Capture",
+                "global_name(en)": "Nav Rappy Capture Mission"
+            },
+            {
+                "jp_name(jp)": "ウォルガーダ殲滅",
+                "jp_name(en)": "Wolgahda Extermination",
+                "global_name(en)": "Wolguarda Eradication"
+            }
+        ],
+        [{
+                "jp_name(jp)": "凶暴化龍族鎮圧",
+                "jp_name(en)": "Berserk Dragon Suppression",
+                "global_name(en)": "Tainted Draconian Subjugation"
+            },
+            {
+                "jp_name(jp)": "黒の民鎮圧任務",
+                "jp_name(en)": "Kuronite Suppression",
+                "global_name(en)": "Nightfaller Subjugation Mission"
+            }
+        ],
+        [{
+                "jp_name(jp)": "キャタドランサ討伐",
+                "jp_name(en)": "Subdue Caterdra'nsa",
+                "global_name(en)": "Suppress Catredransa"
+            },
+            {
+                "jp_name(jp)": "浮上施設地域生態調査",
+                "jp_name(en)": "Facility Survey",
+                "global_name(en)": "Floating Facility Ecological Survey"
+            }
+        ],
+        [{
+                "jp_name(jp)": "アークス捜索任務：凍土",
+                "jp_name(en)": "ARKS Search: Tundra",
+                "global_name(en)": "ARKS Search Mission: Tundra"
+            },
+            {
+                "jp_name(jp)": "ソル・ディランダール討伐",
+                "jp_name(en)": "Subdue Sol Dirandal",
+                "global_name(en)": "Suppress Sol Dirandahl"
+            }
+        ],
+        [{
+                "jp_name(jp)": "遺跡侵食度調査",
+                "jp_name(en)": "Ruins Infestation Survey",
+                "global_name(en)": "Ruins Encroachment Survey"
+            },
+            {
+                "jp_name(jp)": "ウォパル救助隊",
+                "jp_name(en)": "Wopal Rescue Team",
+                "global_name(en)": "Wopal Rescue Team"
+            }
+        ],
+        [{
+                "jp_name(jp)": "ゴロンゾラン鎮圧",
+                "jp_name(en)": "Subdue Goronzoran",
+                "global_name(en)": "Goron Zran Subjugation"
+            },
+            {
+                "jp_name(jp)": "幻創種撃退任務：東京",
+                "jp_name(en)": "Phantom Repulsion: Tokyo",
+                "global_name(en)": "Phantom Repulsion: Tokyo"
+            }
+        ],
+        [{
+                "jp_name(jp)": "機甲種性能調査：地下坑道",
+                "jp_name(en)": "Mech Power Survey: Tunnels",
+                "global_name(en)": "Automata Survey: Underground Shafts"
+            },
+            {
+                "jp_name(jp)": "アンジャドゥリリ討伐",
+                "jp_name(en)": "Anjhadu-lili Demolition",
+                "global_name(en)": "Suppress Anjadeurili"
+            }
+        ],
+        [{
+                "jp_name(jp)": "救難信号調査",
+                "jp_name(en)": "Distress Signal Investigation",
+                "global_name(en)": "Distress Signal Investigation"
+            },
+            {
+                "jp_name(jp)": "オルグブラン討伐",
+                "jp_name(en)": "Subdue Org Blan",
+                "global_name(en)": "Suppress Orgbran"
+            }
+        ],
+        [{
+                "jp_name(jp)": "稀少鉱石発掘任務",
+                "jp_name(en)": "Rare Ore Mining",
+                "global_name(en)": "Rare Ore Excavation Mission"
+            },
+            {
+                "jp_name(jp)": "移動要塞型機甲種撃破",
+                "jp_name(en)": "Mobile Fortress Destruction",
+                "global_name(en)": "Destroy the Moving Fortress Automata"
+            }
+        ],
+        [{
+                "jp_name(jp)": "デコル・マリューダ討伐",
+                "jp_name(en)": "Subdue Decol Malluda",
+                "global_name(en)": "Suppress Dekor Maryuda"
+            },
+            {
+                "jp_name(jp)": "黒の民状況調査",
+                "jp_name(en)": "Kuronite Investigation",
+                "global_name(en)": "Nightfaller General Survey"
+            }
+        ],
+        [{
+                "jp_name(jp)": "凍土地域状況調査",
+                "jp_name(en)": "Tundra Regional Survey",
+                "global_name(en)": "Tundra Region Survey"
+            },
+            {
+                "jp_name(jp)": "レオマドゥラード討伐",
+                "jp_name(en)": "Subdue Rheo Madullard",
+                "global_name(en)": "Suppress Leomaduraad"
+            }
+        ],
+        [{
+                "jp_name(jp)": "貴重物資運搬計画：砂漠",
+                "jp_name(en)": "Cargo Recovery: Desert",
+                "global_name(en)": "Transport Precious Resources: Desert"
+            },
+            {
+                "jp_name(jp)": "コドッタ・イーデッタ討伐",
+                "jp_name(en)": "Codotta Idetta Subjugation",
+                "global_name(en)": "Suppress Kodotta Idihta"
+            }
+        ],
+        [{
+                "jp_name(jp)": "ダガン殲滅任務：森林",
+                "jp_name(en)": "Dagan Extermination: Forest",
+                "global_name(en)": "Dagan Eradication Mission: Forest"
+            },
+            {
+                "jp_name(jp)": "トレイン・ギドラン討伐",
+                "jp_name(en)": "Train Ghidoran Suppression",
+                "global_name(en)": "Suppress Train Gidrahn"
+            }
+        ],
+        [{
+                "jp_name(jp)": "カルターゴ殲滅",
+                "jp_name(en)": "Kartargot Extermination",
+                "global_name(en)": "Carthago Eradication"
+            },
+            {
+                "jp_name(jp)": "機甲種性能調査：砂漠",
+                "jp_name(en)": "Mech Power Survey: Desert",
+                "global_name(en)": "Automata Survey: Desert"
+            }
+        ],
+        [{
+                "jp_name(jp)": "ザウーダン討伐",
+                "jp_name(en)": "Subdue Za Oodan",
+                "global_name(en)": "Suppress Za'udan"
+            },
+            {
+                "jp_name(jp)": "龍祭壇平定任務",
+                "jp_name(en)": "Sanctum Suppression",
+                "global_name(en)": "Conquer the Dragon Altar"
+            }
+        ],
+        [{
+                "jp_name(jp)": "キャタドラン討伐",
+                "jp_name(en)": "Subdue Caterdra'n",
+                "global_name(en)": "Suppress Catredran"
+            },
+            {
+                "jp_name(jp)": "リリーパ族集落防衛",
+                "jp_name(en)": "Lillipan Settlement Defense",
+                "global_name(en)": "Defend the Lillipan Village"
+            }
+        ],
+        [{
+                "jp_name(jp)": "指定標本回収：浮遊大陸",
+                "jp_name(en)": "Sample Collection: Skyscape",
+                "global_name(en)": "Floating Continent Sample Recovery"
+            },
+            {
+                "jp_name(jp)": "環境保全任務：海岸",
+                "jp_name(en)": "Coastal Conservation",
+                "global_name(en)": "Environment Protection Mission: Coast"
+            }
+        ],
+        [{
+                "jp_name(jp)": "龍族生態調査",
+                "jp_name(en)": "Subdue Fangulf",
+                "global_name(en)": "Suppress Phongrulf"
+            },
+            {
+                "jp_name(jp)": "デ・マルモス鎮圧",
+                "jp_name(en)": "Subdue De Malmoth",
+                "global_name(en)": "De Marmoth Subjugation"
+            }
+        ],
+        [{
+                "jp_name(jp)": "龍族生態調査",
+                "jp_name(en)": "Dragonkin Ecological Survey",
+                "global_name(en)": "Draconian Ecology Survey"
+            },
+            {
+                "jp_name(jp)": "機甲種性能調査：採掘場跡",
+                "jp_name(en)": "Mech Power Survey: Quarry",
+                "global_name(en)": "Automata Survey: Abandoned Mine"
+            }
+        ],
+        [{
+                "jp_name(jp)": "環境汚染装置破壊",
+                "jp_name(en)": "Polluter Destruction",
+                "global_name(en)": "Environment Contaminator Destruction"
+            },
+            {
+                "jp_name(jp)": "海岸地域生態調査",
+                "jp_name(en)": "Coastal Ecological Survey",
+                "global_name(en)": "Coastal Region Ecological Survey"
+            }
+        ]
+    ]
+}

@@ -9,47 +9,47 @@ namespace PSO2_DO_Bot
     class ExtraData
     {
         public string StartDate { get; set; }
-        public List<ClientOrder> ExtraOrder { get; set; }
+        public List<ClientOrder> ExtraOrders { get; set; }
     }
 
-    class OtherOrderCalculator
+    public class ExtraOrderCalculator
     {
-        List<ExtraData> m_otherOrderDatas;
-        public OtherOrderCalculator(string filename)
+        List<ExtraData> m_extraOrderData;
+        public ExtraOrderCalculator(string filename)
         {
             string input;
             using (StreamReader sr = new StreamReader(filename))
             {
                 input = sr.ReadToEnd();
             }
-            m_otherOrderDatas = JsonConvert.DeserializeObject<List<ExtraData>>(input);
+            m_extraOrderData = JsonConvert.DeserializeObject<List<ExtraData>>(input);
         }
-        ClientOrder GetOtherOrder()
+        ClientOrder GetExtraOrderFromSet(ExtraData extraData, DateTimeOffset targetDate, TimeSpan offset)
         {
-            return null;
-        }
-
-        public List<ClientOrder> GetTargetDateOtherOrder(DateTimeOffset targetDate, TimeSpan offset)
-        {
-            DateTimeOffset startDate = new DateTimeOffset(m_startDate, offset);
+            DateTimeOffset startDate = new DateTimeOffset(DateTime.Parse(extraData.StartDate), offset);
             int days = (targetDate - startDate).Days;
+            return extraData.ExtraOrders[days % extraData.ExtraOrders.Count]; ;
+        }
 
-            List<DailyOrder> result = m_dailyOrders.FindAll(daily =>
+        public List<ClientOrder> GetTargetDateAllExtraOrders(DateTimeOffset targetDate, TimeSpan offset)
+        {
+            List<ClientOrder> result = new List<ClientOrder>();
+            foreach (ExtraData extraData in m_extraOrderData)
             {
-                return daily.Schedule.Contains((days % daily.cycle) + 1);
-            });
+                result.Add(GetExtraOrderFromSet(extraData, targetDate, offset));
+            }
 
             return result;
         }
 
-        public List<ClientOrder> GetTargetDateDailyOrderJP(DateTimeOffset targetDate)
+        public List<ClientOrder> GetTargetDateAllExtraOrdersJP(DateTimeOffset targetDate)
         {
-            return GetTargetDateOtherOrder(targetDate, new TimeSpan(9, 0, 0));
+            return GetTargetDateAllExtraOrders(targetDate, new TimeSpan(9, 0, 0));
         }
 
-        public List<ClientOrder> GetTargetDateDailyOrderGlobal(DateTimeOffset targetDate)
+        public List<ClientOrder> GetTargetDateAllExtraOrdersGlobal(DateTimeOffset targetDate)
         {
-            return GetTargetDateOtherOrder(targetDate, new TimeSpan(-7, 0, 0));
+            return GetTargetDateAllExtraOrders(targetDate, new TimeSpan(-7, 0, 0));
         }
     }
 }

@@ -1,0 +1,4234 @@
+{
+    "startDate": "2019/08/27",
+    "dailyOrders": [{
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Oodan Fur I",
+            "global_name(en)": "Collect: Udan Fur I",
+            "meseta": 5700,
+            "exp": 6900,
+            "schedule": [
+                7,
+                57,
+                64
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Oodan Fur II",
+            "global_name(en)": "Collect: Udan Fur II (x99)",
+            "meseta": 152,
+            "exp": 150,
+            "schedule": [
+                25,
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Za Oodan Spines I",
+            "global_name(en)": "Collect: Za'udan Spikes I",
+            "meseta": 5700,
+            "exp": 6900,
+            "schedule": [
+                19,
+                40,
+                63
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Za Oodan Spines II",
+            "global_name(en)": "Collect: Za'udan Spikes II (x99)",
+            "meseta": 152,
+            "exp": 150,
+            "schedule": [
+                34,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: N. Rappy Feathers I",
+            "global_name(en)": "Collect: Nav Rappy Feathers I",
+            "meseta": 5700,
+            "exp": 6900,
+            "schedule": [
+                1,
+                51,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: N. Rappy Feathers II",
+            "global_name(en)": "Collect: Nav Rappy Feathers II (x99)",
+            "meseta": 152,
+            "exp": 150,
+            "schedule": [
+                13,
+                60
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Nordiran Tails I",
+            "global_name(en)": "Collect: Nordeeran Tails I",
+            "meseta": 6500,
+            "exp": 10200,
+            "schedule": [
+                16,
+                31,
+                72
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Nordiran Tails II",
+            "global_name(en)": "Collect: Nordeeran Tails II (x99)",
+            "meseta": 171,
+            "exp": 150,
+            "schedule": [
+                43,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sil Dinian Scales I",
+            "global_name(en)": "Collect: Sil Deenian Scales I",
+            "meseta": 6500,
+            "exp": 10200,
+            "schedule": [
+                37,
+                78,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sil Dinian Scales II",
+            "global_name(en)": "Collect: Sil Deenian Scales II (x99)",
+            "meseta": 171,
+            "exp": 150,
+            "schedule": [
+                49,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sol Dinian Fangs I",
+            "global_name(en)": "Collect: Sol Deenian Fangs I",
+            "meseta": 6500,
+            "exp": 10200,
+            "schedule": [
+                46,
+                54,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sol Dinian Fangs II",
+            "global_name(en)": "Collect: Sol Deenian Fangs II (x99)",
+            "meseta": 171,
+            "exp": 150,
+            "schedule": [
+                12,
+                58
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: V. Dragon Claws I",
+            "global_name(en)": "Collect: Vol Dragon Claws I",
+            "meseta": 7000,
+            "exp": 13000,
+            "schedule": [
+                6,
+                55
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: V. Dragon Claws II",
+            "global_name(en)": "Collect: Vol Dragon Claws II (x99)",
+            "meseta": 328,
+            "exp": 1000,
+            "schedule": [
+                18,
+                67
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Krahda Mandibles I",
+            "global_name(en)": "Collect: Krahda Mandibles I",
+            "meseta": 6500,
+            "exp": 10200,
+            "schedule": [
+                15,
+                30,
+                61
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Krahda Mandibles II",
+            "global_name(en)": "Collect: Krahda Mandibles II (x99)",
+            "meseta": 171,
+            "exp": 150,
+            "schedule": [
+                27,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: El Ahda Wings I",
+            "global_name(en)": "Collect: El Arda Wings I",
+            "meseta": 6500,
+            "exp": 10200,
+            "schedule": [
+                22,
+                24,
+                70
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: El Ahda Wings II",
+            "global_name(en)": "Collect: El Arda Wings II (x99)",
+            "meseta": 260,
+            "exp": 200,
+            "schedule": [
+                36,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Iza-ogar Horns",
+            "global_name(en)": "Collect: Izaogal Horns (x99)",
+            "meseta": 430,
+            "exp": 545,
+            "schedule": [
+                9,
+                33,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Pitta Wadda Rings",
+            "global_name(en)": "Collect: Pitta Wadda Rings (x99)",
+            "meseta": 430,
+            "exp": 545,
+            "schedule": [
+                4,
+                39,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Schilt Grimian Shells",
+            "global_name(en)": "Collect: Silt Grimian Shells (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                10,
+                45,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Lanz Vareda Tail Blades",
+            "global_name(en)": "Collect: Lanz Valehda Tailblades (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                3,
+                48,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Zombie Necktie",
+            "global_name(en)": "Collect: Zombie's Neckties (x99)",
+            "meseta": 540,
+            "exp": 545,
+            "schedule": [
+                28,
+                52,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Road Roller Roller",
+            "global_name(en)": "Collect: Rollers of the Road Rollers (x99)",
+            "meseta": 540,
+            "exp": 545,
+            "schedule": [
+                21,
+                42,
+                66
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Aginis I",
+            "global_name(en)": "Suppress: Agnises I",
+            "meseta": 23500,
+            "exp": 11000,
+            "schedule": [
+                7,
+                49
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Aginis II",
+            "global_name(en)": "Suppress: Agnises II (x99)",
+            "meseta": 470,
+            "exp": 200,
+            "schedule": [
+                16,
+                61
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Garongo I",
+            "global_name(en)": "Suppress: Garongoes I",
+            "meseta": 23500,
+            "exp": 11000,
+            "schedule": [
+                28,
+                70
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Garongo II",
+            "global_name(en)": "Suppress: Garongoes II (x99)",
+            "meseta": 710,
+            "exp": 200,
+            "schedule": [
+                40,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Digg I",
+            "global_name(en)": "Suppress: Deegs I",
+            "meseta": 23500,
+            "exp": 11000,
+            "schedule": [
+                10,
+                31,
+                64
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Digg II",
+            "global_name(en)": "Suppress: Deegs II (x99)",
+            "meseta": 470,
+            "exp": 200,
+            "schedule": [
+                22,
+                52,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Caterdra'n I",
+            "global_name(en)": "Suppress: Catredrans I",
+            "meseta": 46530,
+            "exp": 11400,
+            "schedule": [
+                1,
+                55
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Paji-ghiry",
+            "global_name(en)": "Suppress: Pajigeeris",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                34,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Anushi-zagri",
+            "global_name(en)": "Suppress: Anshizagris",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                25
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Iza-ogar",
+            "global_name(en)": "Suppress: Izaogals",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                4,
+                67
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Ado-ogar",
+            "global_name(en)": "Suppress: Adaogals",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                13,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Ganna-gam",
+            "global_name(en)": "Suppress: Gannagams",
+            "meseta": 45000,
+            "exp": 20000,
+            "schedule": [
+                58
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Leran-gam",
+            "global_name(en)": "Suppress: Rerangams",
+            "meseta": 45000,
+            "exp": 20000,
+            "schedule": [
+                46
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Pitta Wadda",
+            "global_name(en)": "Suppress: Pitta Waddas",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                43,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Parata Picoda",
+            "global_name(en)": "Suppress: Prata Picohdas",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                11
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Bonta Bearadda",
+            "global_name(en)": "Suppress: Bonta Beaddas",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                23,
+                68
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Gigur Gunne-gam",
+            "global_name(en)": "Suppress: Gigur Gunnegams",
+            "meseta": 45000,
+            "exp": 20000,
+            "schedule": [
+                38,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Falgarbon",
+            "global_name(en)": "Suppress: Falgurbons",
+            "meseta": 60000,
+            "exp": 15000,
+            "schedule": [
+                5
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Tarvolpus",
+            "global_name(en)": "Suppress: Dalbolupuses",
+            "meseta": 60000,
+            "exp": 15000,
+            "schedule": [
+                14,
+                65
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vlanadian",
+            "global_name(en)": "Suppress: Branadians",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                29
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Schilt Grimian",
+            "global_name(en)": "Suppress: Silt Grimians",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                50,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Banoridian",
+            "global_name(en)": "Suppress: Banoridians",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                41,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Doublune",
+            "global_name(en)": "Suppress: Davrunes",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                32
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Doublunda",
+            "global_name(en)": "Suppress: Davrundas",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                47
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Lanz Vareda",
+            "global_name(en)": "Suppress: Lanz Valehdas",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                59,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Rheo Madullard",
+            "global_name(en)": "Suppress: Leomaduraads",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                20,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Nepto Cassadora",
+            "global_name(en)": "Suppress: Nept Casadohras",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                19,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Rat Phamut",
+            "global_name(en)": "Suppress: Rat Phants",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                8
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dosu Zombie",
+            "global_name(en)": "Suppress: Sword Zombies",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                17
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Chaka Zombie",
+            "global_name(en)": "Suppress: Heat-packing Zombies",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                26
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Brown Bear",
+            "global_name(en)": "Suppress: Brown Bears",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                35
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Polar Bear",
+            "global_name(en)": "Suppress: Polar Bears",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                44
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Type-15 Tank",
+            "global_name(en)": "Suppress: T15 Tanks",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                37,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: T. Rex",
+            "global_name(en)": "Suppress: T-Rexes",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                53
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Road Roller",
+            "global_name(en)": "Suppress: Road Rollers",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                62,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Snake Helicopter",
+            "global_name(en)": "Suppress: Snakehelis",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                71,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Train Ghidoran",
+            "global_name(en)": "Suppress: Train Gidran(s)",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                2,
+                56
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Nab Rappy Capture I",
+            "global_name(en)": "Circuit: Nav Rappy Capture Mission I",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                12,
+                24,
+                33,
+                45,
+                60,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Kartargot Extermination",
+            "global_name(en)": "Circuit: Carthago Eradication",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                15,
+                30,
+                50,
+                59,
+                72,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Cargo Recovery: Desert",
+            "global_name(en)": "Circuit: Resource Transport: Desert",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                18,
+                35,
+                54,
+                66,
+                80,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Anjhadu-lili Demolition",
+            "global_name(en)": "Circuit: Suppression of Anjadeurilis",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                2,
+                26,
+                39,
+                48,
+                62,
+                74,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Subdue Rheo Madullard",
+            "global_name(en)": "Circuit: Suppression of Leomaduraads",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                6,
+                11,
+                38,
+                42,
+                56,
+                63,
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Naberius Advanced Marathon N",
+            "global_name(en)": "Circuit: Naverius Advanced Dash N",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                5,
+                41,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Lillipa Marathon N",
+            "global_name(en)": "Circuit: Lillipan Dash N",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                17,
+                53,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Amduscia Marathon N",
+            "global_name(en)": "Circuit: Amduskia Dash N",
+            "meseta": 39900,
+            "exp": 20000,
+            "schedule": [
+                23,
+                29,
+                65
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Shironia Exploration",
+            "global_name(en)": "Circuit: Daybreak Province Exploration",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                3,
+                27,
+                51,
+                71,
+                75,
+                83,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Facility Exploration",
+            "global_name(en)": "Circuit: Floating Facility Exploration",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                9,
+                14,
+                21,
+                47,
+                57,
+                69,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Tokyo Exploration",
+            "global_name(en)": "Circuit: Tokyo Exploration",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                8,
+                20,
+                32,
+                36,
+                44,
+                68,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gulf Fangs I",
+            "global_name(en)": "Collect: Grulf Fangs I",
+            "meseta": 6300,
+            "exp": 7650,
+            "schedule": [
+                8,
+                38
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gulf Fangs II",
+            "global_name(en)": "Collect: Grulf Fangs II (x99)",
+            "meseta": 168,
+            "exp": 128,
+            "schedule": [
+                68
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fangulf Claws I",
+            "global_name(en)": "Collect: Phongrulf Claws I",
+            "meseta": 4200,
+            "exp": 89250,
+            "schedule": [
+                56
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fangulf Claws II",
+            "global_name(en)": "Collect: Phongrulf Claws II (x99)",
+            "meseta": 224,
+            "exp": 286,
+            "schedule": [
+                14
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Dagan Carapaces I",
+            "global_name(en)": "Collect: Dagan Carapaces I",
+            "meseta": 7200,
+            "exp": 7650,
+            "schedule": [
+                62,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Dagan Carapaces II",
+            "global_name(en)": "Collect: Dagan Carapaces II (x99)",
+            "meseta": 192,
+            "exp": 128,
+            "schedule": [
+                50
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fordoran Manes I",
+            "global_name(en)": "Collect: Fodran Manes I",
+            "meseta": 3500,
+            "exp": 11305,
+            "schedule": [
+                53,
+                83,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fordoran Manes II",
+            "global_name(en)": "Collect: Fodran Manes II (x99)",
+            "meseta": 280,
+            "exp": 350,
+            "schedule": [
+                11
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Dinian Fins I",
+            "global_name(en)": "Collect: Deenian Fins I",
+            "meseta": 2800,
+            "exp": 11305,
+            "schedule": [
+                29,
+                59
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Dinian Fins II",
+            "global_name(en)": "Collect: Deenian Fins II (x99)",
+            "meseta": 224,
+            "exp": 345,
+            "schedule": [
+                35
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: S. Gun Barrels I",
+            "global_name(en)": "Collect: Signogun Barrels I",
+            "meseta": 4200,
+            "exp": 10710,
+            "schedule": [
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: S. Gun Barrels II",
+            "global_name(en)": "Collect: Signogun Barrels II (x99)",
+            "meseta": 224,
+            "exp": 345,
+            "schedule": [
+                41
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Kartargot Legs I",
+            "global_name(en)": "Collect: Carthago Legs I",
+            "meseta": 2925,
+            "exp": 10498,
+            "schedule": [
+                5,
+                44
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Kartargot Legs II",
+            "global_name(en)": "Collect: Carthago Legs II (x99)",
+            "meseta": 234,
+            "exp": 425,
+            "schedule": [
+                32
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Garongo Molars I",
+            "global_name(en)": "Collect: Garongo Molars I",
+            "meseta": 2800,
+            "exp": 14280,
+            "schedule": [
+                47,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Garongo Molars II",
+            "global_name(en)": "Collect: Garongo Molars II (x99)",
+            "meseta": 448,
+            "exp": 554,
+            "schedule": [
+                23,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Spargun Grenades I",
+            "global_name(en)": "Collect: Spargun Ordnance I",
+            "meseta": 6000,
+            "exp": 12240,
+            "schedule": [
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Spargun Grenades II",
+            "global_name(en)": "Collect: Spargun Ordnance II (x99)",
+            "meseta": 240,
+            "exp": 357,
+            "schedule": [
+                4,
+                22
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gwanahda Carapaces I",
+            "global_name(en)": "Collect: Gwanada Carapaces I",
+            "meseta": 2520,
+            "exp": 14280,
+            "schedule": [
+                71
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gwanahda Carapaces II",
+            "global_name(en)": "Collect: Gwanada Carapaces II (x99)",
+            "meseta": 504,
+            "exp": 554,
+            "schedule": [
+                65
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Yede Fur I",
+            "global_name(en)": "Collect: Yedi Fur I",
+            "meseta": 9000,
+            "exp": 12240,
+            "schedule": [
+                61
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Yede Fur II",
+            "global_name(en)": "Collect: Yedi Fur II (x99)",
+            "meseta": 240,
+            "exp": 357,
+            "schedule": [
+                70,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Malmoth Hooves I",
+            "global_name(en)": "Collect: Marmoth Hooves I",
+            "meseta": 6000,
+            "exp": 12240,
+            "schedule": [
+                10,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Malmoth Hooves II",
+            "global_name(en)": "Collect: Marmoth Hooves II (x99)",
+            "meseta": 240,
+            "exp": 184,
+            "schedule": [
+                46
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: S. Banther Claws I",
+            "global_name(en)": "Collect: Snow Banser Claws I",
+            "meseta": 3500,
+            "exp": 14280,
+            "schedule": [
+                16,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: S. Banther Claws II",
+            "global_name(en)": "Collect: Snow Banser Claws II (x99)",
+            "meseta": 700,
+            "exp": 816,
+            "schedule": [
+                28
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Tranmizer Claws I",
+            "global_name(en)": "Collect: Tranmizer Claws I",
+            "meseta": 2800,
+            "exp": 14280,
+            "schedule": [
+                52,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Tranmizer Claws II",
+            "global_name(en)": "Collect: Tranmizer Claws II (x99)",
+            "meseta": 560,
+            "exp": 536,
+            "schedule": [
+                19
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Baridran Scales I",
+            "global_name(en)": "Collect: Baridran Scales I",
+            "meseta": 6000,
+            "exp": 12240,
+            "schedule": [
+                7,
+                40
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Baridran Scales II",
+            "global_name(en)": "Collect: Baridran Scales II (x99)",
+            "meseta": 240,
+            "exp": 184,
+            "schedule": [
+                67
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Windira Scales I",
+            "global_name(en)": "Collect: Wyndila Scales I",
+            "meseta": 3500,
+            "exp": 14280,
+            "schedule": [
+                76,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Windira Scales II",
+            "global_name(en)": "Collect: Wyndila Scales II (x99)",
+            "meseta": 280,
+            "exp": 536,
+            "schedule": [
+                34,
+                49
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sadinian Sword Fragments I",
+            "global_name(en)": "Collect: Sadeenian Blade Fragments I",
+            "meseta": 9000,
+            "exp": 12240,
+            "schedule": [
+                25,
+                64
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sadinian Sword Fragments II",
+            "global_name(en)": "Collect: Sadeenian Blade Fragments II (x99)",
+            "meseta": 240,
+            "exp": 184,
+            "schedule": [
+                55
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Caterdra'nsa Fangs I",
+            "global_name(en)": "Collect: Catredransa Fangs I",
+            "meseta": 2800,
+            "exp": 14280,
+            "schedule": [
+                1,
+                58
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Caterdra'nsa Fangs II",
+            "global_name(en)": "Collect: Catredransa Fangs II (x99)",
+            "meseta": 560,
+            "exp": 536,
+            "schedule": [
+                37
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Godoni-agari Bells",
+            "global_name(en)": "Collect: Kodoniagari Bells (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                20,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Ogaki-baru Crests",
+            "global_name(en)": "Collect: Ogakibar Crests (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                17,
+                31
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Neon Tubes",
+            "global_name(en)": "Collect: Neon Tubes (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                2,
+                26
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Road Roller Roller",
+            "global_name(en)": "Collect: Dullahan Biker Side Cars (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                13,
+                43
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Oodan I",
+            "global_name(en)": "Suppress: Udans I",
+            "meseta": 38400,
+            "exp": 12240,
+            "schedule": [
+                27,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Oodan II",
+            "global_name(en)": "Suppress: Udans II (x99)",
+            "meseta": 870,
+            "exp": 245,
+            "schedule": [
+                32
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Fang Banshee I",
+            "global_name(en)": "Suppress: Fang Banshees I",
+            "meseta": 49000,
+            "exp": 21420,
+            "schedule": [
+                47,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Spardan A I",
+            "global_name(en)": "Suppress: Spardun As I",
+            "meseta": 32400,
+            "exp": 15300,
+            "schedule": [
+                24,
+                62
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Spardan A II",
+            "global_name(en)": "Suppress: Spardun As II (x99)",
+            "meseta": 870,
+            "exp": 296,
+            "schedule": [
+                2
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Spargun I",
+            "global_name(en)": "Suppress: Sparguns I",
+            "meseta": 38400,
+            "exp": 15300,
+            "schedule": [
+                9,
+                50
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Spargun II",
+            "global_name(en)": "Suppress: Sparguns II (x99)",
+            "meseta": 870,
+            "exp": 296,
+            "schedule": [
+                18
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: King Yede I",
+            "global_name(en)": "Suppress: King Yedis I",
+            "meseta": 18900,
+            "exp": 21420,
+            "schedule": [
+                29,
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Guardine I",
+            "global_name(en)": "Suppress: Guardines I",
+            "meseta": 36000,
+            "exp": 18360,
+            "schedule": [
+                20,
+                72
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Guardine II",
+            "global_name(en)": "Suppress: Guardines II (x99)",
+            "meseta": 1080,
+            "exp": 342,
+            "schedule": [
+                11
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Sparzyle I",
+            "global_name(en)": "Suppress: Sparziles I",
+            "meseta": 36000,
+            "exp": 18360,
+            "schedule": [
+                48,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Sparzyle II",
+            "global_name(en)": "Suppress: Sparziles II (x99)",
+            "meseta": 1080,
+            "exp": 474,
+            "schedule": [
+                5
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Sadinian I",
+            "global_name(en)": "Suppress: Sadeenians I",
+            "meseta": 31500,
+            "exp": 21420,
+            "schedule": [
+                33,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Sadinian II",
+            "global_name(en)": "Suppress: Sadeenians II (x99)",
+            "meseta": 1260,
+            "exp": 400,
+            "schedule": [
+                38
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Paji-gowan",
+            "global_name(en)": "Suppress: Pajigwans",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                6,
+                68
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Godoni-agari",
+            "global_name(en)": "Suppress: Kodoniagaris",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                14,
+                54
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Itagi-zakri",
+            "global_name(en)": "Suppress: Itagizakris",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                53,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Oro-ogar",
+            "global_name(en)": "Suppress: Orogrels",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                15,
+                59
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Bonta Bakuta",
+            "global_name(en)": "Suppress: Bomta Bakutas",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                42,
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Bikuda Rabitta",
+            "global_name(en)": "Suppress: Bichda Rabittas",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                45,
+                65
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Marda Tocatta",
+            "global_name(en)": "Suppress: Mudr Toykattas",
+            "meseta": 60000,
+            "exp": 21000,
+            "schedule": [
+                36,
+                60
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Orota Biketta",
+            "global_name(en)": "Suppress: Orota Bikehtas",
+            "meseta": 60000,
+            "exp": 21000,
+            "schedule": [
+                41,
+                66
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Codotta Idetta",
+            "global_name(en)": "Suppress: Kodotta Idihtas",
+            "meseta": 60000,
+            "exp": 22000,
+            "schedule": [
+                57,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Guar Zigmorde",
+            "global_name(en)": "Suppress: Gwahl Jigmoldes",
+            "meseta": 60000,
+            "exp": 22000,
+            "schedule": [
+                23,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Boxer Phamut",
+            "global_name(en)": "Suppress: Boxer Phants",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                3,
+                51
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vulture Phamut",
+            "global_name(en)": "Suppress: Vulture Phants",
+            "meseta": 60000,
+            "exp": 18000,
+            "schedule": [
+                12,
+                56
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Skull Buffalo",
+            "global_name(en)": "Suppress: Skull Buffaloes",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                8,
+                63
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Juggler Pierrot",
+            "global_name(en)": "Suppress: Juggler Clowns",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                21,
+                71
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Launcher Neon",
+            "global_name(en)": "Suppress: Launcher Neons",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                17,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dullahan Rider",
+            "global_name(en)": "Suppress: Dullahan Biker",
+            "meseta": 60000,
+            "exp": 21000,
+            "schedule": [
+                30,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Circus Carriage",
+            "global_name(en)": "Suppress: Circus Carriages",
+            "meseta": 60000,
+            "exp": 21000,
+            "schedule": [
+                39,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: U.F.O",
+            "global_name(en)": "Suppress: UFOs",
+            "meseta": 60000,
+            "exp": 21000,
+            "schedule": [
+                26,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Devil's Trailer I",
+            "global_name(en)": "Suppress: Devil Trucks I",
+            "meseta": 60000,
+            "exp": 22000,
+            "schedule": [
+                35,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vegas Illusia I",
+            "global_name(en)": "Suppress: Vegas lllusia(s) I",
+            "meseta": 60000,
+            "exp": 22000,
+            "schedule": [
+                44,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Subdue Caterdra'n I",
+            "global_name(en)": "Circuit: Catredran Suppression I",
+            "meseta": 66500,
+            "exp": 17850,
+            "schedule": [
+                13,
+                24,
+                51,
+                58,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Distress Signal Inv. I",
+            "global_name(en)": "Circuit: Distress Signal Investigation I",
+            "meseta": 49900,
+            "exp": 21420,
+            "schedule": [
+                7,
+                34,
+                54,
+                61,
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Subdue Caterdra'nsa",
+            "global_name(en)": "Circuit: Suppression of Catredransas",
+            "meseta": 49900,
+            "exp": 21420,
+            "schedule": [
+                6,
+                36,
+                43,
+                63,
+                70,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Transformer Takedown",
+            "global_name(en)": "Circuit: Destroy the Giant Automata",
+            "meseta": 49900,
+            "exp": 21420,
+            "schedule": [
+                4,
+                28,
+                37,
+                52,
+                64,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Subdue Org Blan",
+            "global_name(en)": "Circuit: Suppression of Orgbrans",
+            "meseta": 49900,
+            "exp": 21420,
+            "schedule": [
+                12,
+                39,
+                46,
+                49,
+                73,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Mobile Fortress Destruction",
+            "global_name(en)": "Circuit: Dstry the Mvng Fortress Automat",
+            "meseta": 49900,
+            "exp": 21420,
+            "schedule": [
+                15,
+                22,
+                40,
+                72,
+                79,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Codotta Idetta Sub.",
+            "global_name(en)": "Circuit: Suppression of Kodotta Idihtas",
+            "meseta": 49900,
+            "exp": 21420,
+            "schedule": [
+                16,
+                25,
+                48,
+                55,
+                75,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Naberius Advanced Marathon H",
+            "global_name(en)": "Circuit: Naverius Advanced Dash H",
+            "meseta": 53000,
+            "exp": 21372,
+            "schedule": [
+                33,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Lillipa Marathon H",
+            "global_name(en)": "Circuit: Lillipan Dash H",
+            "meseta": 58600,
+            "exp": 40074,
+            "schedule": [
+                67,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Amduscia Marathon H",
+            "global_name(en)": "Circuit: Amduskia Dash H",
+            "meseta": 64300,
+            "exp": 40074,
+            "schedule": [
+                57,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Naberius Beginner Marathon H",
+            "global_name(en)": "Circuit: Naverius Beginner Dash H",
+            "meseta": 60000,
+            "exp": 10000,
+            "schedule": [
+                9,
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Sanctum Infiltration H",
+            "global_name(en)": "Circuit: Dragon Altar Breakthrough H",
+            "meseta": 60000,
+            "exp": 15000,
+            "schedule": [
+                21,
+                45
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Kuron Exploration",
+            "global_name(en)": "Circuit: Nightfall Province Exploration",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                3,
+                10,
+                19,
+                30,
+                60,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Las Vegas Exploration",
+            "global_name(en)": "Circuit: Las Vegas Exploration",
+            "meseta": 60000,
+            "exp": 20000,
+            "schedule": [
+                1,
+                18,
+                27,
+                31,
+                42,
+                66
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Aginis Tail Feathers I",
+            "global_name(en)": "Collect: Agnis Tail Feathers I",
+            "meseta": 18000,
+            "exp": 10200,
+            "schedule": [
+                30,
+                42,
+                78,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Aginis Tail Feathers II",
+            "global_name(en)": "Collect: Agnis Tail Feathers II (x99)",
+            "meseta": 390,
+            "exp": 182,
+            "schedule": [
+                9,
+                33,
+                63,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Breeahda Wings I",
+            "global_name(en)": "Collect: Briarda Wings I",
+            "meseta": 11250,
+            "exp": 16500,
+            "schedule": [
+                3,
+                15,
+                27,
+                66
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Breeahda Wings II",
+            "global_name(en)": "Collect: Briarda Wings II (x99)",
+            "meseta": 420,
+            "exp": 483,
+            "schedule": [
+                18,
+                24,
+                39,
+                45
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Digg Leg Horns I",
+            "global_name(en)": "Collect: Deeg Leg Horns I",
+            "meseta": 22500,
+            "exp": 10200,
+            "schedule": [
+                57,
+                72,
+                75,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Digg Leg Horns II",
+            "global_name(en)": "Collect: Deeg Leg Horns II (x99)",
+            "meseta": 390,
+            "exp": 182,
+            "schedule": [
+                12,
+                21,
+                48,
+                60
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fangulfur Claws I",
+            "global_name(en)": "Collect: Phangrulfer Claws I",
+            "meseta": 13500,
+            "exp": 16200,
+            "schedule": [
+                6,
+                36,
+                69,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fangulfur Claws II",
+            "global_name(en)": "Collect: Phangrulfer Claws II (x99)",
+            "meseta": 390,
+            "exp": 338,
+            "schedule": [
+                51,
+                54,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gilnach Chest Armor I",
+            "global_name(en)": "Collect: Gillnach Chest Armor I",
+            "meseta": 9000,
+            "exp": 16500,
+            "schedule": [
+                2,
+                5,
+                35,
+                53
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gilnach Chest Armor I",
+            "global_name(en)": "Collect: Gillnach Chest Armor II (x99)",
+            "meseta": 420,
+            "exp": 483,
+            "schedule": [
+                20,
+                41,
+                56,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Quartz Dragon Fangs I",
+            "global_name(en)": "Collect: Quartz Dragon Fangs I",
+            "meseta": 6240,
+            "exp": 39000,
+            "schedule": [
+                38,
+                68,
+                71,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Quartz Dragon Fangs II",
+            "global_name(en)": "Collect: Quartz Dragon Fangs II (x99)",
+            "meseta": 728,
+            "exp": 1698,
+            "schedule": [
+                23,
+                44,
+                59,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Cyclonehda Horns I",
+            "global_name(en)": "Collect: Cychronahda Horns I",
+            "meseta": 16380,
+            "exp": 27300,
+            "schedule": [
+                29,
+                50,
+                65,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Cyclonehda Horns II",
+            "global_name(en)": "Collect: Cychronahda Horns II (x99)",
+            "meseta": 1176,
+            "exp": 1540,
+            "schedule": [
+                8,
+                17,
+                47,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Wolgahda Belly Fangs I",
+            "global_name(en)": "Collect: Wolguarda Abdomen Fangs I",
+            "meseta": 11440,
+            "exp": 26000,
+            "schedule": [
+                11,
+                26,
+                32,
+                62
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Wolgahda Belly Fangs II",
+            "global_name(en)": "Collect: Wolguarda Abdomen Fangs II (x99)",
+            "meseta": 1232,
+            "exp": 1610,
+            "schedule": [
+                14,
+                86,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Fangulf I",
+            "global_name(en)": "Suppress: Phongrulfs I",
+            "meseta": 47300,
+            "exp": 16200,
+            "schedule": [
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Fangulf II",
+            "global_name(en)": "Suppress: Phongrulfs II (x99)",
+            "meseta": 1150,
+            "exp": 338,
+            "schedule": [
+                28
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Gilnas I",
+            "global_name(en)": "Suppress: Gillnases I",
+            "meseta": 31500,
+            "exp": 16500,
+            "schedule": [
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Gilnas II",
+            "global_name(en)": "Suppress: Gillnases II (x99)",
+            "meseta": 1240,
+            "exp": 725,
+            "schedule": [
+                40
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: De Malmoth I",
+            "global_name(en)": "Suppress: De Marmoths I",
+            "meseta": 15800,
+            "exp": 39000,
+            "schedule": [
+                66
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Signo Beat I",
+            "global_name(en)": "Suppress: Signo Beats I",
+            "meseta": 42000,
+            "exp": 30900,
+            "schedule": [
+                51
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Signo Beat II",
+            "global_name(en)": "Suppress: Signo Beats II (x99)",
+            "meseta": 1150,
+            "exp": 449,
+            "schedule": [
+                58
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dahgash I",
+            "global_name(en)": "Suppress: Dhargashes I",
+            "meseta": 43400,
+            "exp": 30600,
+            "schedule": [
+                33
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dahgash II",
+            "global_name(en)": "Suppress: Dhargashes II (x99)",
+            "meseta": 1150,
+            "exp": 449,
+            "schedule": [
+                70
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Krabahda I",
+            "global_name(en)": "Suppress: Krabahdas I",
+            "meseta": 41800,
+            "exp": 21450,
+            "schedule": [
+                10
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Krabahda II",
+            "global_name(en)": "Suppress: Krabahdas II (x99)",
+            "meseta": 2780,
+            "exp": 1446,
+            "schedule": [
+                6
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Kuklonahda I",
+            "global_name(en)": "Suppress: Cuchronahdas I",
+            "meseta": 62100,
+            "exp": 26000,
+            "schedule": [
+                22
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Kuklonahda II",
+            "global_name(en)": "Suppress: Cuchronahdas II",
+            "meseta": 2840,
+            "exp": 1495,
+            "schedule": [
+                15
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Zeshrayda I",
+            "global_name(en)": "Suppress: Zeshraiders I",
+            "meseta": 43700,
+            "exp": 28350,
+            "schedule": [
+                46
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dirandal",
+            "global_name(en)": "Suppress: Dirandahls (x99)",
+            "meseta": 2800,
+            "exp": 1610,
+            "schedule": [
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Sol Dirandal",
+            "global_name(en)": "Suppress: Sol Dirandahls (x99)",
+            "meseta": 2800,
+            "exp": 1610,
+            "schedule": [
+                18
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Goronzoran",
+            "global_name(en)": "Suppress: Goron Zrans",
+            "meseta": 82500,
+            "exp": 15000,
+            "schedule": [
+                4,
+                52,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dragon Ex",
+            "global_name(en)": "Suppress: Dragon X(s)",
+            "meseta": 97500,
+            "exp": 15000,
+            "schedule": [
+                36,
+                54,
+                72
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Aqulupus",
+            "global_name(en)": "Suppress: Aqualupuses (x99)",
+            "meseta": 1130,
+            "exp": 665,
+            "schedule": [
+                24
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Blumegalla",
+            "global_name(en)": "Suppress: Bloomegaras (x99)",
+            "meseta": 1090,
+            "exp": 690,
+            "schedule": [
+                30
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Org Blan",
+            "global_name(en)": "Suppress: Orgbrans",
+            "meseta": 82500,
+            "exp": 15000,
+            "schedule": [
+                16,
+                64,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Bal Rodos",
+            "global_name(en)": "Suppress: Bar Lodoses",
+            "meseta": 250000,
+            "exp": 15000,
+            "schedule": [
+                1,
+                7,
+                13,
+                19,
+                25,
+                31,
+                37,
+                43,
+                49,
+                55,
+                61,
+                67,
+                73,
+                79,
+                85,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Stark Gun",
+            "global_name(en)": "Suppress: Starkguns (x99)",
+            "meseta": 1150,
+            "exp": 680,
+            "schedule": [
+                42
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vinto Vargr",
+            "global_name(en)": "Suppress: Vint Balgers (x99)",
+            "meseta": 1110,
+            "exp": 720,
+            "schedule": [
+                48
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Jagd Dingell",
+            "global_name(en)": "Suppress: Jagd Dingale",
+            "meseta": 1690,
+            "exp": 1600,
+            "schedule": [
+                57
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vardha Soma",
+            "global_name(en)": "Suppress: Vardersomas",
+            "meseta": 97500,
+            "exp": 15000,
+            "schedule": [
+                21,
+                39,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Blutorbon",
+            "global_name(en)": "Suppress: Bluturbons (x99)",
+            "meseta": 660,
+            "exp": 700,
+            "schedule": [
+                60
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Sevanian",
+            "global_name(en)": "Suppress: Sevanians (x99)",
+            "meseta": 1160,
+            "exp": 710,
+            "schedule": [
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Talobecko",
+            "global_name(en)": "Suppress: Tarobekkos (x99)",
+            "meseta": 1160,
+            "exp": 710,
+            "schedule": [
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Doluahda",
+            "global_name(en)": "Suppress: Druahdas (x99)",
+            "meseta": 1160,
+            "exp": 710,
+            "schedule": [
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Decol Malluda",
+            "global_name(en)": "Suppress: Dekor Maryudas",
+            "meseta": 105000,
+            "exp": 15000,
+            "schedule": [
+                12,
+                45,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Type-15 Tank",
+            "global_name(en)": "Suppress: T15 Tanks",
+            "meseta": 60000,
+            "exp": 25000,
+            "schedule": [
+                9,
+                27,
+                63
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Devil's Trailer II",
+            "global_name(en)": "Suppress: Devil Trucks II",
+            "meseta": 60000,
+            "exp": 25000,
+            "schedule": [
+                3,
+                34,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: ARKS Search: Tundra I",
+            "global_name(en)": "Circuit: ARKS Search Mission: Tundra I",
+            "meseta": 93600,
+            "exp": 18000,
+            "schedule": [
+                2,
+                8,
+                62,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Polluter Destruction I",
+            "global_name(en)": "Circuit: Contaminator Destruction I",
+            "meseta": 117000,
+            "exp": 24300,
+            "schedule": [
+                14,
+                19,
+                68,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Sanctum Suppression",
+            "global_name(en)": "Circuit: Conquer the Dragon Altar",
+            "meseta": 112500,
+            "exp": 15000,
+            "schedule": [
+                4,
+                32,
+                43,
+                55
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Coastal Ecological Survey",
+            "global_name(en)": "Circuit: Coastal Ecological Survey",
+            "meseta": 113700,
+            "exp": 13500,
+            "schedule": [
+                17,
+                23,
+                74,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Mech Power Survey: Quarry",
+            "global_name(en)": "Circuit: Automata Survey: Mines",
+            "meseta": 113700,
+            "exp": 13500,
+            "schedule": [
+                31,
+                38,
+                67,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Seabed Ecological Survey",
+            "global_name(en)": "Circuit: Seabed Ecological Survey",
+            "meseta": 113700,
+            "exp": 13500,
+            "schedule": [
+                29,
+                41,
+                50,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Naberius Advanced Marathon VH",
+            "global_name(en)": "Circuit: Naverius Advanced Dash VH",
+            "meseta": 120000,
+            "exp": 21372,
+            "schedule": [
+                25,
+                47,
+                61
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Lillipa Marathon VH",
+            "global_name(en)": "Circuit: Lillipan Dash VH",
+            "meseta": 120000,
+            "exp": 40074,
+            "schedule": [
+                1,
+                37,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Amduscia Marathon VH",
+            "global_name(en)": "Circuit: Amduskia Dash VH",
+            "meseta": 120000,
+            "exp": 40074,
+            "schedule": [
+                13,
+                49,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: V. Cave Exploration I",
+            "global_name(en)": "Circuit: Volcanic Caves Exploration I",
+            "meseta": 93600,
+            "exp": 18000,
+            "schedule": [
+                5,
+                10,
+                56,
+                59
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Skyscape Exploration I",
+            "global_name(en)": "Circuit: Floating Continent Exploration I",
+            "meseta": 105300,
+            "exp": 18900,
+            "schedule": [
+                11,
+                16,
+                65,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Ruins Exploration I",
+            "global_name(en)": "Circuit: Ruins Exploration",
+            "meseta": 158400,
+            "exp": 28350,
+            "schedule": [
+                20,
+                22,
+                71,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Sanctum Exploration",
+            "global_name(en)": "Circuit: Dragon Altar Exploration",
+            "meseta": 112500,
+            "exp": 15000,
+            "schedule": [
+                7,
+                35,
+                46,
+                52
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Coast Exploration",
+            "global_name(en)": "Circuit: Coast Exploration",
+            "meseta": 118800,
+            "exp": 13050,
+            "schedule": [
+                26,
+                28,
+                70,
+                77,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Quarry Exploration",
+            "global_name(en)": "Circuit: Abandoned Mine Exploration",
+            "meseta": 118800,
+            "exp": 13050,
+            "schedule": [
+                34,
+                53,
+                64,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Seabed Exploration",
+            "global_name(en)": "Circuit: Seabed Exploration",
+            "meseta": 118800,
+            "exp": 13050,
+            "schedule": [
+                40,
+                44,
+                58,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Beautiful Aginis Crests",
+            "global_name(en)": "Collect: Agnis Beautiful Crest (x99)",
+            "meseta": 490,
+            "exp": 432,
+            "schedule": [
+                10,
+                58,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Sharp Garongo Claws",
+            "global_name(en)": "Collect: Garongo Sharp Claws (x99)",
+            "meseta": 750,
+            "exp": 725,
+            "schedule": [
+                25,
+                82,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Dinian Hide",
+            "global_name(en)": "Collect: Deenian Hides (x99)",
+            "meseta": 425,
+            "exp": 545,
+            "schedule": [
+                7,
+                70,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Digg Eyelids",
+            "global_name(en)": "Collect: Deeg Eyelids (x99)",
+            "meseta": 490,
+            "exp": 432,
+            "schedule": [
+                37,
+                43,
+                64
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Signo Chips",
+            "global_name(en)": "Collect: Signo Chips (x99)",
+            "meseta": 575,
+            "exp": 645,
+            "schedule": [
+                4,
+                19,
+                46
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Spar Chips",
+            "global_name(en)": "Collect: Spar Chips (x99)",
+            "meseta": 550,
+            "exp": 647,
+            "schedule": [
+                22,
+                31,
+                76,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fangulfur Horns",
+            "global_name(en)": "Collect: Phangrulfer Horns (x99)",
+            "meseta": 540,
+            "exp": 638,
+            "schedule": [
+                16,
+                28,
+                40
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Yede Fists",
+            "global_name(en)": "Collect: Yedi Fists (x99)",
+            "meseta": 490,
+            "exp": 550,
+            "schedule": [
+                52,
+                67,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Gilnach Arms",
+            "global_name(en)": "Collect: Gillnach Arms (x99)",
+            "meseta": 560,
+            "exp": 583,
+            "schedule": [
+                13,
+                34,
+                61
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Fordoransa Horns",
+            "global_name(en)": "Collect: Fodransa Horns (x99)",
+            "meseta": 675,
+            "exp": 524,
+            "schedule": [
+                1,
+                49,
+                55
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Wolgahda Kneecaps",
+            "global_name(en)": "Collect: Wolguarda Knee Carapaces (x99)",
+            "meseta": 1478,
+            "exp": 1771,
+            "schedule": [
+                9,
+                78,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Deegalla Wings",
+            "global_name(en)": "Collect: Deegahla Wings (x99)",
+            "meseta": 750,
+            "exp": 600,
+            "schedule": [
+                15,
+                18,
+                72
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Blumegalla Flowers",
+            "global_name(en)": "Collect: Bloomegara Flowers (x99)",
+            "meseta": 1008,
+            "exp": 828,
+            "schedule": [
+                45,
+                54,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Dingell Arms",
+            "global_name(en)": "Collect: Dingale Arms (x99)",
+            "meseta": 950,
+            "exp": 850,
+            "schedule": [
+                3,
+                27,
+                60,
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Blutorbon Shells",
+            "global_name(en)": "Collect: Bluturbon Blue Shells (x99)",
+            "meseta": 650,
+            "exp": 950,
+            "schedule": [
+                6,
+                42,
+                66,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Falcabone Shell Fragments",
+            "global_name(en)": "Collect: Falcabone Shell Fragments (x99)",
+            "meseta": 980,
+            "exp": 980,
+            "schedule": [
+                24,
+                33,
+                36,
+                39
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Tag Aqulupus Claws",
+            "global_name(en)": "Collect: Tag Aqualupus Claws (x99)",
+            "meseta": 975,
+            "exp": 970,
+            "schedule": [
+                12,
+                21,
+                57,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Talobecko Beaks",
+            "global_name(en)": "Collect: Tarobekko Beaks (x99)",
+            "meseta": 975,
+            "exp": 970,
+            "schedule": [
+                51,
+                63,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Collect: Vid Gilos Tail Fins",
+            "global_name(en)": "Collect: Vid Giros Tail Fins (x99)",
+            "meseta": 980,
+            "exp": 1050,
+            "schedule": [
+                30,
+                48,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Fang Banshee",
+            "global_name(en)": "Suppression: Fang Banshee II",
+            "meseta": 97500,
+            "exp": 15000,
+            "schedule": [
+                14,
+                58
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vol Dragon",
+            "global_name(en)": "Suppress: Vol Dragon(s)",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                62,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Gwanahda",
+            "global_name(en)": "Suppress: Gwanadas",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                13,
+                40
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Snow Banther",
+            "global_name(en)": "Suppress: Snow Banser(s)",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                17,
+                71
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Big Vardha",
+            "global_name(en)": "Suppress: Big Varder(s)",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                22,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Quartz Dragon",
+            "global_name(en)": "Suppress: Quartz Dragon(s)",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                26,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Zeshrayda",
+            "global_name(en)": "Suppress: Zeshraiders",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                31,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dragon Ex",
+            "global_name(en)": "Suppress: Dragon X(s)",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                35,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Bal Rodos",
+            "global_name(en)": "Suppress: Bar Lodoses",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                1,
+                37
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Blu Ringahda",
+            "global_name(en)": "Suppress: Bryu Ringahdas",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                5,
+                44
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Tag Sevanian",
+            "global_name(en)": "Suppress: Tag Sevanians (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                2,
+                38,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Gul Solda",
+            "global_name(en)": "Suppress: Guru Soldas (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                11,
+                47,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Deue Solda",
+            "global_name(en)": "Suppress: Dwe Soldas (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                20,
+                56,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Solda Kapita",
+            "global_name(en)": "Suppress: Solda Capitas (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                7,
+                29,
+                65
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Biol Meduna",
+            "global_name(en)": "Suppress: Biol Medunas",
+            "meseta": 130000,
+            "exp": 18000,
+            "schedule": [
+                32,
+                49
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Train Ghidoran",
+            "global_name(en)": "Suppress: Train Gidran(s)",
+            "meseta": 60000,
+            "exp": 30000,
+            "schedule": [
+                53,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Vegas Illusia II",
+            "global_name(en)": "Suppress: Vegas lllusia(s) II",
+            "meseta": 60000,
+            "exp": 30000,
+            "schedule": [
+                4,
+                67
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dagan",
+            "global_name(en)": "Suppress: Dagans (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                8,
+                28,
+                52,
+                70
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Ga Wonda",
+            "global_name(en)": "Suppress: Gawondas (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                10,
+                34,
+                55,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Dicahda",
+            "global_name(en)": "Suppress: Dicahdrs (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                19,
+                43,
+                61,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Gu Wonda",
+            "global_name(en)": "Suppress: Guwondas (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                16,
+                41,
+                59,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Predicahda",
+            "global_name(en)": "Suppress: Predicahdrs (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                23,
+                46,
+                64,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Defeat: Luda Sorcerer",
+            "global_name(en)": "Suppress: Luda Sorcerers (x99)",
+            "meseta": 1270,
+            "exp": 900,
+            "schedule": [
+                25,
+                50,
+                68,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Forest Exploration",
+            "global_name(en)": "Circuit: Forest Exploration",
+            "meseta": 114600,
+            "exp": 12520,
+            "schedule": [
+                6,
+                33,
+                66,
+                72,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Volcanic Caverns Exploration",
+            "global_name(en)": "Circuit: Volcanic Caves Exploration",
+            "meseta": 121800,
+            "exp": 13840,
+            "schedule": [
+                24,
+                27,
+                30,
+                36,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Desert Exploration",
+            "global_name(en)": "Circuit: Desert Exploration",
+            "meseta": 114600,
+            "exp": 12520,
+            "schedule": [
+                42,
+                45,
+                48,
+                63,
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Tundra Exploration",
+            "global_name(en)": "Circuit: Tundra Exploration",
+            "meseta": 121800,
+            "exp": 13840,
+            "schedule": [
+                9,
+                15,
+                39,
+                51,
+                57,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Sub. Tunnels Exploration",
+            "global_name(en)": "Circuit: Underground Shafts Exploration",
+            "meseta": 121800,
+            "exp": 13840,
+            "schedule": [
+                3,
+                21,
+                60,
+                81,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Skyscape Exploration",
+            "global_name(en)": "Circuit: Floating Continent Exploration",
+            "meseta": 126600,
+            "exp": 13840,
+            "schedule": [
+                12,
+                18,
+                54,
+                69,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Ruins Exploration",
+            "global_name(en)": "Circuit: Ruins Exploration",
+            "meseta": 121800,
+            "exp": 13355,
+            "schedule": [
+                14,
+                29,
+                53,
+                71,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Sanctum Exploration",
+            "global_name(en)": "Circuit: Dragon Altar Exploration",
+            "meseta": 121800,
+            "exp": 13855,
+            "schedule": [
+                32,
+                47,
+                56,
+                59,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Coast Exploration",
+            "global_name(en)": "Circuit: Coast Exploration",
+            "meseta": 130700,
+            "exp": 14355,
+            "schedule": [
+                8,
+                11,
+                17,
+                26,
+                44,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Quarry Exploration",
+            "global_name(en)": "Circuit: Abandoned Mine Exploration",
+            "meseta": 130700,
+            "exp": 14355,
+            "schedule": [
+                20,
+                35,
+                68,
+                74,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Decol Malluda Subjugation",
+            "global_name(en)": "Circuit: Suppression of Dekor Maryudas",
+            "meseta": 130700,
+            "exp": 14355,
+            "schedule": [
+                23,
+                38,
+                62,
+                83,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Run: Seabed Exploration",
+            "global_name(en)": "Circuit: Seabed Exploration",
+            "meseta": 130700,
+            "exp": 14500,
+            "schedule": [
+                2,
+                5,
+                41,
+                50,
+                65
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Forest Tomato",
+            "global_name(en)": "Harvesting: Forest Tomatoes (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                2,
+                28,
+                54,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Tundra Green Onions",
+            "global_name(en)": "Harvesting: Tundra Spring Onions (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                12,
+                37,
+                62,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Ruins Grapes",
+            "global_name(en)": "Harvesting: Ruins Grapes (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                5,
+                31,
+                57,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Cave Pumpkins",
+            "global_name(en)": "Harvesting: Volcanic Caves Pumpkins (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                15,
+                40,
+                65,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Skyscape Beans",
+            "global_name(en)": "Harvesting: Floating Continent Beans (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                20,
+                46,
+                72
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Sanctum Radish",
+            "global_name(en)": "Harvesting: Dragon Altar Radishes (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                8,
+                33,
+                58,
+                83
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Desert Pepper",
+            "global_name(en)": "Harvesting: Desert Sanshos (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                24,
+                50,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Tunnels Mushrooms",
+            "global_name(en)": "Harvesting: Underground Mushrooms (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                23,
+                48,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Quarry Potato",
+            "global_name(en)": "Harvesting: Abandoned Mine Potatoes (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                11,
+                37,
+                63,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Coast Olives",
+            "global_name(en)": "Harvesting: Coast Olives (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                18,
+                43,
+                68,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Seabed Shallots",
+            "global_name(en)": "Harvesting: Seabed Shallots (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                21,
+                46,
+                71
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Facility Mint",
+            "global_name(en)": "Harvesting: Floating Facility Mints (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                14,
+                40,
+                66,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Shironian Sprouts",
+            "global_name(en)": "Harvesting: Daybreak Prov. String Sprout (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                5,
+                30,
+                55,
+                80
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Kuron Lotus",
+            "global_name(en)": "Harvesting: Nightfall Prov. Lotus Roots (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                8,
+                34,
+                60,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Tokyo Soybeans",
+            "global_name(en)": "Harvesting: Tokyo Soybeans (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                17,
+                43,
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Vegas Lettuce",
+            "global_name(en)": "Harvesting: Las Vegas Lettuces (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                2,
+                27,
+                52,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Forest Sweetfish",
+            "global_name(en)": "Polefishing: Forest Sweetfish (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                11,
+                36,
+                61,
+                86
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Tundra Herring",
+            "global_name(en)": "Polefishing: Tundra Herrings (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                21,
+                47,
+                73
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Ruins Shrimp",
+            "global_name(en)": "Polefishing: Ruins Shrimp (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                14,
+                39,
+                64,
+                89
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Caves Mussels",
+            "global_name(en)": "Polefishing: Volcanic Caves Mussels (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                6,
+                32,
+                58,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Skyscape Kelp",
+            "global_name(en)": "Polefishing: Floating Continent Kelp (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                17,
+                42,
+                67,
+                92
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Sanctum Fiddler Crab",
+            "global_name(en)": "Polefishing: Dragon Altar Fiddler Crabs (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                12,
+                38,
+                64,
+                90
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Desert Flounder",
+            "global_name(en)": "Polefishing: Desert Flounders (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                4,
+                29,
+                54,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Tunnels Mantis Shrimp",
+            "global_name(en)": "Polefishing: Underground Shrimp (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                9,
+                35,
+                61,
+                87
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Quarry Cutlass",
+            "global_name(en)": "Polefishing: Abandoned Mine Beltfish (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                1,
+                26,
+                51,
+                76
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Coast Clam",
+            "global_name(en)": "Polefishing: Coast Littleneck Clams (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                3,
+                29,
+                55,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Seabed Oyster",
+            "global_name(en)": "Polefishing: Seabed Iwagaki Oysters (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                23,
+                49,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Facility Squid",
+            "global_name(en)": "Polefishing: Floating Facility Squids (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                24,
+                49,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Shironian Carp",
+            "global_name(en)": "Polefishing: Daybreak Province Carp (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                15,
+                41,
+                67,
+                93
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Kuron Firefly Squid",
+            "global_name(en)": "Polefishing: Nightfall Firefly Squids (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                20,
+                45,
+                70
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Empty Can",
+            "global_name(en)": "Polefishing: Empty Cans (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                7,
+                32,
+                57,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Vegas Lobster",
+            "global_name(en)": "Polefishing: Las Vegas Lobsters (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                18,
+                44,
+                70
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Red Meat",
+            "global_name(en)": "Harvesting: Red Meat (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                1,
+                27,
+                53,
+                79
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Harvest: Marbled Meat",
+            "global_name(en)": "Harvesting: Marbled Meat (x999)",
+            "meseta": 350,
+            "exp": 70,
+            "schedule": [
+                9,
+                34,
+                59,
+                84
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Naberius Turtle",
+            "global_name(en)": "Polefishing: Naverturtles",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                16,
+                41,
+                66,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Tundra Clione",
+            "global_name(en)": "Polefishing: Tundra Cliones",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                4,
+                30,
+                56,
+                82
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Amduscia Coral",
+            "global_name(en)": "Polefishing: Amduskia Coral",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                3,
+                28,
+                53,
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Cave Arowana",
+            "global_name(en)": "Polefishing: Volcanic Caves Arowanas",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                22,
+                48,
+                74
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Skyscape Oarfish",
+            "global_name(en)": "Polefishing: Floating Continent Tusks",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                26,
+                52,
+                78
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Sanctum Nautilus",
+            "global_name(en)": "Polefishing: Dragon Altar Nautiluses",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                19,
+                44,
+                69
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Lillipa Shell",
+            "global_name(en)": "Polefishing: Lillipan Shells",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                10,
+                35,
+                60,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Tunnels Eagle Ray",
+            "global_name(en)": "Polefishing: Underground Eagle Rays",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                16,
+                42,
+                68
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Wopal Shark",
+            "global_name(en)": "Polefishing: Wopal Sharks",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                7,
+                33,
+                59,
+                85
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Petit Rodos",
+            "global_name(en)": "Polefishing: Petit Lodoses",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                10,
+                36,
+                62,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Little Meduna",
+            "global_name(en)": "Polefishing: Little Medunas",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                6,
+                31,
+                56,
+                81
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Model Ship",
+            "global_name(en)": "Polefishing: Surface Ship Models",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                13,
+                38,
+                63,
+                88
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Little Zakri",
+            "global_name(en)": "Polefishing: Little Zakris",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                13,
+                39,
+                65,
+                91
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Shironian Salamander",
+            "global_name(en)": "Polefishing: Daybreak Salamanders",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                25,
+                50,
+                75
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Kuron Wrasse",
+            "global_name(en)": "Polefishing: Nightfall Sheepsheads",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                25,
+                51,
+                77
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Earth Shell",
+            "global_name(en)": "Polefishing: Sand Shellfish",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                19,
+                45,
+                71
+            ],
+            "cycle": 93
+        },
+        {
+            "jp_name(jp)": "",
+            "jp_name(en)": "Catch: Vegas Jaws",
+            "global_name(en)": "Polefishing: Las Vegas Jaws",
+            "meseta": 100000,
+            "exp": 15000,
+            "schedule": [
+                22,
+                47,
+                72
+            ],
+            "cycle": 93
+        }
+    ]
+}

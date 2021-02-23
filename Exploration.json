@@ -1,0 +1,449 @@
+{
+    "startDate": "2016/08/27",
+    "explorations": [{
+            "jp_name(jp)": "森林探索",
+            "jp_name(en)": "Forest Exploration",
+            "global_name(en)": "Forest Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Naberius Natives",
+                    "global_name(en)": "Suppress: Naverian Sylvants",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Garongo",
+                    "global_name(en)": "Suppress: Garongoes",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Fang Banshee",
+                    "global_name(en)": "Suppress: Fang Banshee(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "火山洞窟探索",
+            "jp_name(en)": "Volcano Caves Exploration",
+            "global_name(en)": "Volcanic Caves Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Dragonkin",
+                    "global_name(en)": "Suppress: Draconians",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Nordiran",
+                    "global_name(en)": "Suppress: Nordeerans",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Vol Dragon",
+                    "global_name(en)": "Suppress: Vol Dragon(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "砂漠探索",
+            "jp_name(en)": "Desert Exploration",
+            "global_name(en)": "Desert Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Mechs",
+                    "global_name(en)": "Suppress: Automata",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Spardan A",
+                    "global_name(en)": "Suppress: Spardun As",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Gwanahda",
+                    "global_name(en)": "Suppress: Gwanadas",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "凍土探索",
+            "jp_name(en)": "Tundra Exploration",
+            "global_name(en)": "Tundra Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Naberius Natives",
+                    "global_name(en)": "Suppress: Naverian Sylvants",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: King Yede",
+                    "global_name(en)": "Suppress: King Yedis",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Snow Banshee",
+                    "global_name(en)": "Suppress: Snow Banshee(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "地下坑道探索",
+            "jp_name(en)": "Sub. Tunnels Exploration",
+            "global_name(en)": "Underground Shafts Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Mechs",
+                    "global_name(en)": "Suppress: Automata",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Signo Beat",
+                    "global_name(en)": "Suppress: Signo Beats",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Big Vardha",
+                    "global_name(en)": "Suppress: Big Varder(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "龍祭壇探索",
+            "jp_name(en)": "Skyscape Exploration",
+            "global_name(en)": "Floating Continent Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Dragonkin",
+                    "global_name(en)": "Suppress: Draconians",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Nordiransa",
+                    "global_name(en)": "Suppress: Nordeeransas",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Quartz Dragon",
+                    "global_name(en)": "Suppress: Quartz Dragon(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "遺跡探索",
+            "jp_name(en)": "Ruins Exploration",
+            "global_name(en)": "Ruins Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Darkers",
+                    "global_name(en)": "Suppress: Falspawn",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Kuklonahda",
+                    "global_name(en)": "Suppress: Cuchronahdas",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Zeshrayda",
+                    "global_name(en)": "Suppress: Zeshraiders",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "龍祭壇探索",
+            "jp_name(en)": "Sanctum Exploration",
+            "global_name(en)": "Dragon Altar Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Dragonkin",
+                    "global_name(en)": "Suppress: Draconians",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Dirandal",
+                    "global_name(en)": "Suppress: Dirandahls",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Dragon Ex",
+                    "global_name(en)": "Suppress: Dragon X(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "海岸探索",
+            "jp_name(en)": "Coast Exploration",
+            "global_name(en)": "Coast Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Oceanids",
+                    "global_name(en)": "Suppress: Oceanids",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Luda Sorcerer",
+                    "global_name(en)": "Suppress: Luda Sorcerers",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Bal Rodos",
+                    "global_name(en)": "Suppress: Bar Lodoses",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+            ]
+        },
+        {
+            "jp_name(jp)": "採掘場跡探索",
+            "jp_name(en)": "Quarry Exploration",
+            "global_name(en)": "Abandoned Mine Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Mechs",
+                    "global_name(en)": "Suppress: Automata",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Jagd Dingell",
+                    "global_name(en)": "Suppress: Jagd Dingales",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Blu Ringahda",
+                    "global_name(en)": "Suppress: Bryu Ringahdas",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "海底探索",
+            "jp_name(en)": "Seabed Exploration",
+            "global_name(en)": "Seabed Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Oceanids",
+                    "global_name(en)": "Suppress: Oceanids",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Vid Gilos",
+                    "global_name(en)": "Suppress: Vid Giroses",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Biol Meduna",
+                    "global_name(en)": "Suppress: Biol Medunas",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "白ノ領域探索",
+            "jp_name(en)": "Shironia Exploration",
+            "global_name(en)": "Daybreak Province Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Kuronites",
+                    "global_name(en)": "Suppress: Nightfallers",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Anushi-zagri",
+                    "global_name(en)": "Suppress: Anshizagris",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Gigur Gunne-gam",
+                    "global_name(en)": "Suppress: Gigur Gunnegams",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "浮上施設探索",
+            "jp_name(en)": "Facility Exploration",
+            "global_name(en)": "Floating Facility Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Oceanids",
+                    "global_name(en)": "Suppress: Oceanids",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Nepto Cassadora",
+                    "global_name(en)": "Suppress: Nept Casadohras",
+                    "meseta": 18000,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Rheo Madullard",
+                    "global_name(en)": "Suppress: Leomaduraads",
+                    "meseta": 18000,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "黒ノ領域探索",
+            "jp_name(en)": "Kuron Exploration",
+            "global_name(en)": "Nightfall Province Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Kuronites",
+                    "global_name(en)": "Suppress: Nightfallers",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Oro-ogar",
+                    "global_name(en)": "Suppress: Orogrels",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Guar Zigmorde",
+                    "global_name(en)": "Suppress: Gwahl Jigmoldes",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+
+            ]
+        },
+        {
+            "jp_name(jp)": "東京探索",
+            "jp_name(en)": "Tokyo Exploration",
+            "global_name(en)": "Tokyo Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Phantoms",
+                    "global_name(en)": "Suppress: Phantasms",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: T. Rex",
+                    "global_name(en)": "Suppress: T-Rexes",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Train Ghidoran",
+                    "global_name(en)": "Suppress: Train Gidran(s)",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+            ]
+        },
+        {
+            "jp_name(jp)": "ラスベガス探索",
+            "jp_name(en)": "Las Vegas Exploration",
+            "global_name(en)": "Las Vegas Exploration",
+            "client_order": [{
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Phantoms",
+                    "global_name(en)": "Suppress: Phantasms",
+                    "meseta": 9000,
+                    "exp": 10000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: U.F.O",
+                    "global_name(en)": "Suppress: UFOs",
+                    "meseta": 13500,
+                    "exp": 15000
+                },
+                {
+                    "jp_name(jp)": "",
+                    "jp_name(en)": "Defeat: Vegas Illusia",
+                    "global_name(en)": "Suppress: Vegas lllusia",
+                    "meseta": 22500,
+                    "exp": 18000
+                }
+            ]
+        }
+    ]
+}

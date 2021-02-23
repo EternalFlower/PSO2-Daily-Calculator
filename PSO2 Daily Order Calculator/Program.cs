@@ -14,6 +14,9 @@ namespace PSO2_DO_Bot
 
             FeatureQuestCalculator featureQuestCalculator = new FeatureQuestCalculator("C:\\Users\\Jimmy\\Desktop\\FeatureQuest.json");
             featureQuestCalculator.GetTargetDateFeatureQuest(DateTime.Now, new TimeSpan(9, 0, 0));
+
+            ExtraOrderCalculator extraOrderCalculator = new ExtraOrderCalculator("C:\\Users\\Jimmy\\Desktop\\ExtraOrder.json");
+            extraOrderCalculator.GetTargetDateAllExtraOrders(DateTime.Now, new TimeSpan(9, 0, 0));
         }
     }
 }
