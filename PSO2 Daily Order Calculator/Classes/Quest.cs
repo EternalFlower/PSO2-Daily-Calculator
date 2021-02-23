@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace PSO2_DO_Bot
+namespace PSO2_DailyOrderCalculator
 {
     public class Quest
     {

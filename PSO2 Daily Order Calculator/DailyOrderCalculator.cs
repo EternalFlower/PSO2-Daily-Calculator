@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace PSO2_DO_Bot
+namespace PSO2_DailyOrderCalculator
 {
     class DailyOrderData
     {

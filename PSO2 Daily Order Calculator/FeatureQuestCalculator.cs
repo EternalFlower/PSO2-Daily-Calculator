@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace PSO2_DO_Bot
+namespace PSO2_DailyOrderCalculator
 {
     public class FeatureQuestData
     {

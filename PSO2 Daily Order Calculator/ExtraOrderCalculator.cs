@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace PSO2_DO_Bot
+namespace PSO2_DailyOrderCalculator
 {
     class ExtraData
     {
@@ -24,7 +24,7 @@ namespace PSO2_DO_Bot
             }
             m_extraOrderData = JsonConvert.DeserializeObject<List<ExtraData>>(input);
         }
-        ClientOrder GetExtraOrderFromSet(ExtraData extraData, DateTimeOffset targetDate, TimeSpan offset)
+        private ClientOrder GetExtraOrderFromSet(ExtraData extraData, DateTimeOffset targetDate, TimeSpan offset)
         {
             DateTimeOffset startDate = new DateTimeOffset(DateTime.Parse(extraData.StartDate), offset);
             int days = (targetDate - startDate).Days;

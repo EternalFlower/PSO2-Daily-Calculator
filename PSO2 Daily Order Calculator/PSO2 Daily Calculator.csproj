@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>PSO2_DO_Bot</RootNamespace>
+    <RootNamespace>PSO2_DailyOrderCalculator</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PSO2_DO_Bot
+namespace PSO2_DailyOrderCalculator
 {
     public class ClientOrder
     {
