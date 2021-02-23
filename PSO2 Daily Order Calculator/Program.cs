@@ -17,6 +17,9 @@ namespace PSO2_DailyOrderCalculator
 
             ExtraOrderCalculator extraOrderCalculator = new ExtraOrderCalculator("ExtraOrder.json");
             var extra = extraOrderCalculator.GetTargetDateAllExtraOrders(DateTime.Now, new TimeSpan(9, 0, 0));
+
+            LevelQuestCalculator levelQuestCalculator = new LevelQuestCalculator("LevelQuest.json");
+            var levelQuest = levelQuestCalculator.GetTargetDateLevelQuest(DateTime.Now, new TimeSpan(9, 0, 0));
         }
     }
 }
