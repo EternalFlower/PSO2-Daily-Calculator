@@ -30,7 +30,7 @@
         },
         {
             "jp_name(jp)": "火山洞窟探索",
-            "jp_name(en)": "Volcano Caves Exploration",
+            "jp_name(en)": "Volcanic Caves Exploration",
             "global_name(en)": "Volcanic Caves Exploration",
             "client_order": [{
                     "jp_name(jp)": "",

@@ -1,9 +1,19 @@
 {
-    "startDate": "2020/03/03",
+    "startDate": "2021/06/28",
     "levelQuest": [{
             "jp_name(jp)": "平穏を引き裂く混沌",
             "jp_name(en)": "Chaotic Tranquility",
             "global_name(en)": "Chaos, Render of Tranquility"
+        },
+        {
+            "jp_name(jp)": "特別突破訓練: Episode6",
+            "jp_name(en)": "Special Training: Episode 6",
+            "global_name(en)": "SP Breakthrough Training: Ep 6"
+        },
+        {
+            "jp_name(jp)": "特別突破訓練: Episode1",
+            "jp_name(en)": "Special Training: Episode 1",
+            "global_name(en)": "SP Breakthrough Training: Ep 1"
         },
         {
             "jp_name(jp)": "安寧を破りし超急の魔笛",
@@ -11,9 +21,19 @@
             "global_name(en)": "Disturbing Whistle of Chaos"
         },
         {
+            "jp_name(jp)": "特別突破訓練: Episode2",
+            "jp_name(en)": "Special Training: Episode 2",
+            "global_name(en)": "SP Breakthrough Training: Ep 2"
+        },
+        {
             "jp_name(jp)": "戦塵を招く魔城の脅威",
             "jp_name(en)": "The Menacing Castle",
             "global_name(en)": "Menace of the Bewitched Castle"
+        },
+        {
+            "jp_name(jp)": "特別突破訓練: Episode3",
+            "jp_name(en)": "Special Training: Episode 3",
+            "global_name(en)": "SP Breakthrough Training: Ep 3"
         },
         {
             "jp_name(jp)": "静寂に生まれし混沌",
@@ -21,9 +41,19 @@
             "global_name(en)": "The Silence Born of Chaos"
         },
         {
+            "jp_name(jp)": "特別突破訓練: Episode4",
+            "jp_name(en)": "Special Training: Episode 4",
+            "global_name(en)": "SP Breakthrough Training: Ep 4"
+        },
+        {
             "jp_name(jp)": "暗影渦巻く壊れた世界",
             "jp_name(en)": "A World Engulfed in Shadows",
             "global_name(en)": "A Broken World of Twisted Shadows"
+        },
+        {
+            "jp_name(jp)": "特別突破訓練: Episode5",
+            "jp_name(en)": "Special Training: Episode 5",
+            "global_name(en)": "SP Breakthrough Training: Ep 5"
         }
     ]
 }
